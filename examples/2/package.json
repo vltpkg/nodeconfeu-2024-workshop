@@ -1,5 +1,5 @@
 {
   "name": "@vltpkg/nodeconfeu-2024-workshop-example-2",
-  "type": "module",
-  "private": true
+  "version": "0.0.0",
+  "type": "module"
 }
